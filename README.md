@@ -5,5 +5,5 @@ News-oriented Stock Prediction
 
 - Preview
 
-![alt text](Workflow.png "Workflow")
+![alt text](OrgWorkflow.png "Workflow")
 
